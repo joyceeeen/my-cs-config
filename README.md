@@ -1,1 +1,1 @@
-# csgo
+# cs exec
